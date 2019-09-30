@@ -5,12 +5,12 @@ append.push('Odie')
 
 const prepend = ["Milo", "Otis", "Garfield"]
 
-pets.unshift('Odie')
+prepend.unshift('Odie')
 
 const removeLast = ["Milo", "Otis", "Garfield"]
 
-pets.pop
+removeLast.pop
 
 const removeFirst = ["Milo", "Otis", "Garfield"]
 
-pets.shift
+removeFirst.shift
